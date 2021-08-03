@@ -1,0 +1,12 @@
+{
+    "@@locale": "pt",
+    "hello": "Olá {nome}",
+    "@hello": {
+        "placeholders": {
+            "nome": {
+                "type": "String",
+                "example": "Bob"
+            }
+        }
+    }
+}
